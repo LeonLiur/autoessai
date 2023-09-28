@@ -1,6 +1,7 @@
 import { ChakraProvider } from '@chakra-ui/react'
 import { AppProps } from 'next/app';
 import { extendTheme } from '@chakra-ui/react'
+import React from 'react';
 
 const colors = {
     brand: {

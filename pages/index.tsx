@@ -1,5 +1,6 @@
 import { Box, Button, Center, Input, Stack } from '@chakra-ui/react'
 import { useState } from 'react'
+import React from 'react'
 
 export default function HomePage() {
     const [prompt, setPrompt] = useState('#$%&')
